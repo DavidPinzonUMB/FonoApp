@@ -1,5 +1,6 @@
 .env
 .env.*
+!.env.example
 
 __pycache__/
 *.py[cod]
@@ -17,3 +18,5 @@ uploads/
 
 .DS_Store
 Thumbs.db
+
+.env
